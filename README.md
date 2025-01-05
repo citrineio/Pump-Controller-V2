@@ -13,4 +13,5 @@ A device which can monitor and switch household water pumps remotely.
 
 ## Block Diagram
 
-![Block Diagram](/home/kadhem/Documents/Projects/Pump%20Controller/Pump%20Controller%20V5.jpg)
+
+![Pump Controller V2](https://github.com/user-attachments/assets/566a38fd-7ad2-464b-b649-ddd82b9c12e3)
